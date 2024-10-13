@@ -44,11 +44,11 @@
     <p>В нашем секретном клубе существует система репутации, которая показывает, как ты себя ведёшь за столом. Вот основные правила, касающиеся обычной еды:</p>
 
     <ul>
-        <li><span class="highlight">+0 репутации</span> — за съеденное <a href="https://kakashki-pro.github.io/Non-tasty-food/" target="_blank"><strong>невкусное</strong></a> блюдо.</li>
-        <li><span class="highlight">+10 репутации</span> — за взятие добавки.</li>
+        <li><span class="highlight">+0 репутации</span> — за съеденное <a href="https://kakashki-pro.github.io/Non-tasty-food/" target="_blank"><strong>невкусное</strong></a> или обычное блюдо.</li>
+        <li><span class="highlight">+10 репутации</span> — за взятие добавки к <strong>обычной еде</strong>.</li>
         <li><span class="highlight">+5 репутации</span> — за взятие дополнительного компота.</li>
-        <li><span class="highlight">-10 репутации</span> — за выбрасывание еды (если еда <a href="https://kakashki-pro.github.io/Tasty-food/" target="_blank"><strong>вкусная</strong></a>).</li>
-        <li><span class="highlight">-20 репутации</span> — за выбрасывание еды, если еда <strong>вкусная</strong>.</li>
+        <li><span class="highlight">-10 репутации</span> — за выбрасывание обычной еды.</li>
+        <li><span class="highlight">-20 репутации</span> — за выбрасывание еды, если еда <a href="https://kakashki-pro.github.io/Tasty-food/" target="_blank"><strong>вкусная</strong></a>.</li>
         <li><span class="highlight">0 репутации</span> — за не выпитый компот.</li>
     </ul>
 
