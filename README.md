@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Клуб Столовки — Репутация</title>
+    <title>Клуб Столовки — Обычная Еда</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -39,17 +39,16 @@
 </head>
 <body>
 
-    <h1>Правила Репутации в Клубе Столовки</h1>
+    <h1>Правила Обычной Еды в Клубе Столовки</h1>
 
-    <p>В нашем секретном клубе существует система репутации, которая показывает, как ты себя ведёшь за столом. Максимальная репутация — <span class="highlight">100</span>, минимальная — <span class="highlight">0</span>. Если твоя репутация опускается до нуля, тебя исключают из клуба. Вот основные правила:</p>
+    <p>В нашем секретном клубе существует система репутации, которая показывает, как ты себя ведёшь за столом. Вот основные правила, касающиеся обычной еды:</p>
 
     <ul>
-        <li><span class="highlight">0 репутации</span> — за обычное съеденное блюдо.</li>
+        <li><span class="highlight">+0 репутации</span> — за съеденное <a href="https://kakashki-pro.github.io/Non-tasty-food/" target="_blank"><strong>невкусное</strong></a> блюдо.</li>
         <li><span class="highlight">+10 репутации</span> — за взятие добавки.</li>
         <li><span class="highlight">+5 репутации</span> — за взятие дополнительного компота.</li>
-        <li><span class="highlight">-10 репутации</span> — за выбрасывание еды (если еда <strong>обычная</strong>).</li>
-        <li><span class="highlight">-5 репутации</span> — за выбрасывание еды (если еда <strong>невкусная</strong>).</li>
-        <li><span class="highlight">-20 репутации</span> — за выбрасывание еды (если еда <a href="https://kakashki-pro.github.io/Tasty-food/" target="_blank"><strong>вкусная</strong></a>).</li>
+        <li><span class="highlight">-10 репутации</span> — за выбрасывание еды (если еда <a href="https://kakashki-pro.github.io/Tasty-food/" target="_blank"><strong>вкусная</strong></a>).</li>
+        <li><span class="highlight">-20 репутации</span> — за выбрасывание еды, если еда <strong>вкусная</strong>.</li>
         <li><span class="highlight">0 репутации</span> — за не выпитый компот.</li>
     </ul>
 
